@@ -30,7 +30,7 @@ Or,
 1. Clone the repository
 
 ```bash
-git clone https://github.com/kothing/webpack-typescript-react-library-template.git
+git clone https://github.com/meer4283/meer-package-testing.git
 ```
 
 2. Install the dependencies

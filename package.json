@@ -1,5 +1,5 @@
 {
-  "name": "webpack-typescript-react-library-template",
+  "name": "meer-package-testing",
   "version": "0.0.0",
   "description": "React typescript component creator boilerplate using webpack, react and typescript",
   "main": "dist/index.js",
@@ -8,11 +8,11 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kothing/webpack-typescript-react-library-template"
+    "url": "https://github.com/meer4283/meer-package-testing"
   },
-  "homepage": "https://github.com/Kothing/webpack-typescript-react-library-template#readme",
+  "homepage": "https://github.com/meer4283/meer-package-testing#readme",
   "bugs": {
-    "url": "https://github.com/Kothing/webpack-typescript-react-library-template/issues"
+    "url": "https://github.com/meer4283/meer-package-testing/issues"
   },
   "publishConfig": {
     "access": "public",
